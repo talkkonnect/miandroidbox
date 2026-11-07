@@ -1,0 +1,35 @@
+# Packages deploy.sh disables (pm disable-user; nothing is uninstalled). One per line.
+# Google extras
+com.google.android.tvrecommendations
+com.google.android.backdrop
+com.google.android.play.games
+com.google.android.videos
+com.google.android.youtube.tvmusic
+com.google.android.apps.tachyon
+# Xiaomi PatchWall, analytics and auto-installer
+com.mitv.tvhome.atv
+com.mitv.tvhome.michannel
+com.miui.tv.analytics
+com.xm.webcontent
+android.autoinstalls.config.xiaomi.mibox3
+# Preloaded partner apps and ad tracking
+com.amazon.amazonvideo.livingroom
+tv.alphonso.alphonso_eula
+# User-installed apps not on the launcher (only VLC is kept)
+com.airconsole.androidtv
+com.anydesk.adcontrol.ad1
+com.anydesk.anydeskandroid
+com.apple.atve.androidtv.appletv
+com.cybercat.adbappcontrol.tv
+com.doonung.dtv
+com.facebook.katana
+com.hbo.asia.androidtv
+com.ibopro.player
+com.mgtv.tv.intl
+com.mxtech.videoplayer.ad
+com.spotify.tv.android
+com.tencent.qqlivei18n
+com.viki.android
+in.startv.hotstar
+in.startv.hotstar.dplus.tv
+tunein.player

@@ -1,0 +1,7 @@
+sdk=28
+model=MIBOX4
+home=com.google.android.tvlauncher/.MainActivity
+window_animation_scale=1.0
+transition_animation_scale=1.0
+animator_duration_scale=null
+screensaver=com.google.android.backdrop/.Backdrop
